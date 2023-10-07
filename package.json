@@ -1,0 +1,14 @@
+{
+  "name": "goiteensjsadvl17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel *.html", "build": "parcel build *.html public-url/fe 1y_3/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
